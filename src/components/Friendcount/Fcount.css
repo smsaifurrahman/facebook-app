@@ -1,0 +1,20 @@
+.main-button{
+    color: green;
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.dev-container h1{
+    color: #3b5998;
+}
+
+.dev-container h2{
+    color: #3b985f;
+}
+
+.dev-container p{
+    color: rgb(148, 49, 49);
+}
